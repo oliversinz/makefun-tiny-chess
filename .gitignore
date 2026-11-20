@@ -1,0 +1,8 @@
+# Track only files used in the competition submission.
+*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/main.py
+!/.makefun/
+!/.makefun/owner.json
